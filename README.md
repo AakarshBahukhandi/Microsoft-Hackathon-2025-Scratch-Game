@@ -15,7 +15,7 @@ This Project was developed as part of the Microsoft Hackathon which was organize
 ## Demo : https://scratch.mit.edu/projects/1171946154/
 
 ## My Role:To design the levels,Code player movements,And deploy the whole game 
-**NOTE: I made the whole game by myself as none of my teammates failed to report at the event due to high rainfall**
+**NOTE: I made the whole game by myself as my teammates failed to report at the event due to high rainfall**
 
 ## Learning
 -Learnt to work in a team and work cross functionally.
