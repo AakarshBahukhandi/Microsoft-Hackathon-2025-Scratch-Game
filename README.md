@@ -10,9 +10,9 @@ This Project was developed as part of the Microsoft Hackathon which was organize
 
 
 ## Elements of the game
--Single Player
--
-## Demo : https://scratch.mit.edu/projects/1171946154/
+1-Single Player
+2-Maze Platformer
+
 
 ## My Role:To design the levels,Code player movements,And deploy the whole game 
 **NOTE: I made the whole game by myself as my teammates failed to report at the event due to high rainfall**
@@ -28,5 +28,5 @@ This Project was developed as part of the Microsoft Hackathon which was organize
 2-Prajjwal
 
 Important links:
-The final game :
+The final game : https://scratch.mit.edu/projects/1171946154/
 
