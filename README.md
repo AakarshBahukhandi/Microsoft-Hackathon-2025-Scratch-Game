@@ -1,7 +1,7 @@
 # Microsoft-Hackathon-2025-Scratch-Game
 
 ## Overview
-This Project was developed as part of the Microsoft Hackathon which was organized by Data Connect Delhi,it is focused toward game development using Scratch programming language.Our Goal was to make a scratc game that will show our critical thinking , logic application and teamwork in a fun and engaging way.
+This Project was developed as part of the Microsoft Hackathon which was organized by Data Connect Delhi,it is focused toward game development using Scratch programming language.Our Goal was to make a scratch game that will show our critical thinking , logic application and teamwork in a fun and engaging way.
 
 ## Game Concept
 **Title**:Maze 3D
